@@ -10,6 +10,7 @@
 /* Start Global Rules */
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -180,6 +181,7 @@ header .container .links .icon span:last-child {
 }
 
 header .container .links ul {
+    
     position: absolute;
     background-color: #eee;
     margin: 0;
